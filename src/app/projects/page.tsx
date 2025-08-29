@@ -17,17 +17,18 @@ function Projects() {
             <div className="text-2xl font-semibold mb-2">minjlys/minmarine</div>
             <div>
               {" "}
-              personal site built with next.js, tailwindcss, and react.
+              personal site built with next.js, tailwindcss, and react - hosted
+              through vercel.
             </div>
           </section>
 
           <section>
             <div className="text-2xl font-semibold mb-2">
-              Undergraduate Learning Assistants Website
+              Website - UCR Undergraduate Learning Assistants
             </div>
             <div>
               built during ACM @ UCR 2025 Summer Spark program, utilizing
-              tailwindcss, next.js, node.js and react.
+              tailwindcss, next.js, node.js, figma, and react.
             </div>
           </section>
 
@@ -35,9 +36,33 @@ function Projects() {
             <div className="text-2xl font-semibold mb-2">InterScholar</div>
             <div>
               built during DesignCo Spring Case Study, utilizing Figma to
-              develop an interactive educational app.
+              develop interactive educational app InterScholar.
             </div>
           </section>
+
+          <section>
+            <div className="text-2xl font-semibold mb-2">techstack</div>
+          </section>
+          <div className="flex flex-wrap gap-3">
+            <span className="bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-medium">
+              React
+            </span>
+            <span className="bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-medium">
+              Next.js
+            </span>
+            <span className="bg-yellow-100 text-yellow-800 px-4 py-2 rounded-full text-sm font-medium">
+              JavaScript
+            </span>
+            <span className="bg-purple-100 text-purple-800 px-4 py-2 rounded-full text-sm font-medium">
+              Tailwind CSS
+            </span>
+            <span className="bg-red-100 text-red-800 px-4 py-2 rounded-full text-sm font-medium">
+              Node.js
+            </span>
+            <span className="bg-gray-100 text-gray-800 px-4 py-2 rounded-full text-sm font-medium">
+              Figma
+            </span>
+          </div>
         </div>
       </motion.div>
     </div>

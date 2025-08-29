@@ -27,7 +27,7 @@ function Experience() {
 
           <section>
             <div className="text-2xl font-semibold mb-2">UCR RHA </div>
-            <div>Marketing Assisstant</div>
+            <div>Marketing Assistant</div>
           </section>
 
           <div className="text-5xl font-bold mb-12 text-center">activities</div>
