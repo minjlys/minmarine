@@ -26,7 +26,7 @@ function Projects() {
               Undergraduate Learning Assistants Website
             </div>
             <div>
-              built during ACM @ UCR's 2025 Summer Spark program, utilizing
+              built during ACM @ UCR 2025 Summer Spark program, utilizing
               tailwindcss, next.js, node.js and react.
             </div>
           </section>
@@ -34,8 +34,8 @@ function Projects() {
           <section>
             <div className="text-2xl font-semibold mb-2">InterScholar</div>
             <div>
-              built during DesignCo's Spring Case Study, utilizing Figma to
-              develop an interactive educational app.{" "}
+              built during DesignCo Spring Case Study, utilizing Figma to
+              develop an interactive educational app.
             </div>
           </section>
         </div>
