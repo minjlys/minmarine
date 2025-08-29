@@ -16,7 +16,7 @@ function About() {
           <section>
             <div className="text-2xl font-semibold mb-2">at UCR,</div>
             <div>
-              i'm a business administration major with a concentration in
+              im a business administration major with a concentration in
               information systems. i grew surrounded by technology, and want to
               apply those skills in the business world!
             </div>
@@ -37,9 +37,8 @@ function About() {
           <section>
             <div className="text-2xl font-semibold mb-2">outside of class,</div>
             <div>
-              {" "}
               i love running, listening to music (beabadoobee, sorry), and
-              playing games. you'll probably catch me playing splatoon.{" "}
+              playing games. youll probably catch me playing splatoon.
             </div>
           </section>
 
