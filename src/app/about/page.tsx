@@ -35,7 +35,7 @@ function About() {
             <div className="text-2xl font-semibold mb-2">outside of class,</div>
             <div>
               i love exploring new places, running, listening to music, and
-              gaming. interestingly but unfortunately, i've been playing
+              gaming. interestingly but unfortunately, ive been playing
               splatoon for over 10 years - challenge me anytime :D
             </div>
           </section>
