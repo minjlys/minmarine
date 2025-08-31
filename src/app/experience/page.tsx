@@ -36,6 +36,14 @@ function Experience() {
             <div className="text-2xl font-semibold mb-2"> RoseHack @ UCR</div>
             <div>Operations Committee </div>
           </section>
+
+          <section>
+            <div className="text-2xl font-semibold mb-2">
+              {" "}
+              Design At UCR • DesignCo{" "}
+            </div>
+            <div> Member • Spring 2025 Figma Case Study </div>
+          </section>
         </div>
       </motion.div>
     </div>
