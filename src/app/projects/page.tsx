@@ -51,7 +51,7 @@ function Projects() {
               Next.js
             </span>
             <span className="bg-yellow-100 text-yellow-800 px-4 py-2 rounded-full text-sm font-medium">
-              JavaScript
+              TypeScript
             </span>
             <span className="bg-purple-100 text-purple-800 px-4 py-2 rounded-full text-sm font-medium">
               Tailwind CSS
