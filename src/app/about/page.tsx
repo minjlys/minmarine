@@ -3,14 +3,16 @@ import { motion } from "framer-motion";
 
 function About() {
   return (
-    <div className="flex flex-col items-center px-6 py-10 text-xl">
+    <div className="flex flex-col items-center justify-center px-4 py-10 text-base sm:text-xl">
       <motion.div
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, ease: "easeOut" }}
-        style={{ borderRadius: "12px", overflow: "hidden", width: "50%" }}
+        className="rounded-xl overflow-hidden w-full max-w-3xl sm:w-3/4 md:w-1/2"
       >
-        <div className="text-5xl font-bold mb-12 text-center">about</div>
+        <div className="text-3xl sm:text-5xl font-bold mb-8 sm:mb-12 text-center">
+          about
+        </div>
 
         <div className="w-full max-w-3xl space-y-8">
           <section>
@@ -35,8 +37,8 @@ function About() {
             <div className="text-2xl font-semibold mb-2">outside of class,</div>
             <div>
               i love exploring new places, running, listening to music, and
-              gaming. interestingly but unfortunately, ive been playing
-              splatoon for over 10 years - challenge me anytime :D
+              gaming. interestingly but unfortunately, ive been playing splatoon
+              for over 10 years - challenge me anytime :D
             </div>
           </section>
         </div>
